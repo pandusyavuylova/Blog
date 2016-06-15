@@ -1,0 +1,45 @@
+﻿@model WebUI.Models.RegisterModel
+
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2>Реєстрація</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div>
+        <hr />
+        @Html.ValidationSummary(false)
+
+        <div>
+            Електронна адреса
+            <div>
+                @Html.EditorFor(model => model.Email)
+            </div>
+        </div>
+
+        <div>
+            Пароль
+            <div>
+                @Html.EditorFor(model => model.Password)
+            </div>
+        </div>
+
+        <div>
+            Підтвердіть пароль
+            <div>
+                @Html.EditorFor(model => model.PasswordConfirm)
+            </div>
+        </div>
+
+        <div>
+            <div>
+                <input type="submit" value="Зареєструвати" />
+            </div>
+        </div>
+    </div>
+}

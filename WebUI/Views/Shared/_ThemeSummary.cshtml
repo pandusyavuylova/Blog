@@ -1,0 +1,23 @@
+﻿@model Domain.Theme
+
+<div class="well">
+    <div class="row">
+        <div class="col-xs-10">
+            <h3>
+                <strong>@Model.Title    -   <i>@Model.Teacher</i></strong>
+            </h3>
+        </div>
+        <div class="col-xs-2">
+            <h3>
+                <button type="button" class="btn btn-default btn-lg" onclick="@("window.location.href='" + @Url.Action("Take", "Themes", new { id = Model.Id }) + "'");">
+                    <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> Take
+                </button>
+            </h3>
+        </div>
+    </div>
+    <span class="lead">
+        @Model.Description
+    </span>
+
+</div>
+

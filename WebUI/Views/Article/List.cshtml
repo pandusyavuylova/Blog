@@ -1,0 +1,15 @@
+﻿@using WebUI.Models
+@model ArticleListViewModel
+
+@{
+    ViewBag.Title = "My blog";
+}
+
+@foreach (var article in Model.Articles)
+{
+    @Html.Partial("_ArticleSummary", article)
+}
+
+<div>
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("List", new { page = x }))
+</div>

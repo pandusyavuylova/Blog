@@ -1,0 +1,16 @@
+﻿@model WebUI.Models.EditRoleModel
+
+<h2>Редагування ролі</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div>
+        @Html.ValidationSummary(true, "")
+        @Html.HiddenFor(model => model.Id)
+        <p>Назва:  @Html.EditorFor(model => model.Name)</p>
+        <p>Опис: @Html.EditorFor(model => model.Description)</p>
+        <p><input type="submit" value="Змінити" /></p>
+    </div>
+}

@@ -1,0 +1,34 @@
+﻿@model IEnumerable<WebUI.Models.ApplicationRole>
+
+@{
+    ViewBag.Title = "Ролі";
+}
+
+<h2>Ролі</h2>
+<div class="col-xs-2">
+    <h3>
+        <button type="button" class="btn btn-default btn-lg" onclick="@("window.location.href='" + @Url.Action("Create", "Roles") + "'");">
+            <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> Create new role
+        </button>
+    </h3>
+</div>
+
+<table class="table">
+    <tr>
+        <th>Назва</th>
+        <th>Опис</th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Description</td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+</table>

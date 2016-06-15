@@ -1,0 +1,130 @@
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\WebUI.dll.config
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\WebUI.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\WebUI.pdb
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Domain.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\EntityFramework.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\EntityFramework.SqlServer.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Moq.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Ninject.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Ninject.Web.Common.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Ninject.Web.Mvc.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\System.Web.Helpers.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\System.Web.Mvc.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\System.Web.Razor.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\System.Web.WebPages.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\System.Web.WebPages.Razor.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\WebActivatorEx.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Domain.pdb
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\EntityFramework.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\EntityFramework.SqlServer.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Moq.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Ninject.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Ninject.Web.Common.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Ninject.Web.Mvc.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\System.Web.Helpers.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\System.Web.Mvc.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\System.Web.Razor.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\System.Web.WebPages.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\System.Web.WebPages.Razor.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\ru\System.Web.Helpers.resources.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\ru\System.Web.Mvc.resources.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\ru\System.Web.Razor.resources.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\ru\System.Web.WebPages.resources.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\obj\Debug\WebUI.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\obj\Debug\WebUI.pdb
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Microsoft.Owin.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Microsoft.Owin.Security.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Newtonsoft.Json.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Owin.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Microsoft.Owin.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Microsoft.Owin.Security.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\bin\Newtonsoft.Json.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\obj\Debug\WebUI.Migrations.InitialCreate.resources
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\obj\Debug\WebUI.csproj.GenerateResource.Cache
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\obj\Debug\WebUI.Migrations.DataMigration.resources
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\obj\Debug\WebUI.Migrations.DataMigration1.resources
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\obj\Debug\WebUI.Migrations.DataMigration23.resources
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\WebUI\obj\Debug\WebUI.Migrations.AnotherMigration.resources
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\WebUI.dll.config
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\WebUI.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\WebUI.pdb
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Domain.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\EntityFramework.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\EntityFramework.SqlServer.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Microsoft.Owin.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Microsoft.Owin.Security.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Moq.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Newtonsoft.Json.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Ninject.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Ninject.Web.Common.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Ninject.Web.Mvc.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Owin.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\System.Web.Helpers.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\System.Web.Mvc.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\System.Web.Razor.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\System.Web.WebPages.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\System.Web.WebPages.Razor.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\WebActivatorEx.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Domain.pdb
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\EntityFramework.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\EntityFramework.SqlServer.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Microsoft.Owin.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Microsoft.Owin.Security.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Moq.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Newtonsoft.Json.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Ninject.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Ninject.Web.Common.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\Ninject.Web.Mvc.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\System.Web.Helpers.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\System.Web.Mvc.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\System.Web.Razor.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\System.Web.WebPages.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\System.Web.WebPages.Razor.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\ru\System.Web.Helpers.resources.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\ru\System.Web.Mvc.resources.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\ru\System.Web.Razor.resources.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\ru\System.Web.WebPages.resources.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\obj\Debug\WebUI.Migrations.InitialCreate.resources
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\obj\Debug\WebUI.Migrations.DataMigration.resources
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\obj\Debug\WebUI.Migrations.DataMigration1.resources
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\obj\Debug\WebUI.Migrations.DataMigration23.resources
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\obj\Debug\WebUI.Migrations.AnotherMigration.resources
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\obj\Debug\WebUI.csproj.GenerateResource.Cache
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\obj\Debug\WebUI.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\WebUI\obj\Debug\WebUI.pdb

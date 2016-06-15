@@ -1,0 +1,122 @@
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\UnitTests.dll.config
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\UnitTests.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\UnitTests.pdb
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Domain.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Moq.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Ninject.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Ninject.Web.Common.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\System.Web.Helpers.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\System.Web.Mvc.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\System.Web.Razor.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\System.Web.WebPages.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\WebActivatorEx.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\WebUI.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\EntityFramework.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Domain.pdb
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\WebUI.pdb
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Moq.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Ninject.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Ninject.Web.Common.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\System.Web.Helpers.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\System.Web.Mvc.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\System.Web.Razor.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\System.Web.WebPages.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\EntityFramework.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\ru\System.Web.Helpers.resources.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\ru\System.Web.Razor.resources.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\ru\System.Web.WebPages.resources.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\obj\Debug\UnitTests.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\obj\Debug\UnitTests.pdb
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\EntityFramework.SqlServer.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Microsoft.Owin.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Microsoft.Owin.Security.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Newtonsoft.Json.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Owin.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\EntityFramework.SqlServer.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Microsoft.Owin.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Microsoft.Owin.Security.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\BookStore - копия\UnitTests\bin\Debug\Newtonsoft.Json.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\UnitTests.dll.config
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\UnitTests.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\UnitTests.pdb
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Domain.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\EntityFramework.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\EntityFramework.SqlServer.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Microsoft.Owin.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Microsoft.Owin.Security.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Moq.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Newtonsoft.Json.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Ninject.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Ninject.Web.Common.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Owin.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\System.Web.Helpers.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\System.Web.Mvc.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\System.Web.Razor.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\System.Web.WebPages.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\WebActivatorEx.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\WebUI.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Domain.pdb
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\WebUI.pdb
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\EntityFramework.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\EntityFramework.SqlServer.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Microsoft.Owin.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Microsoft.Owin.Security.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Moq.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Newtonsoft.Json.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Ninject.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Ninject.Web.Common.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\System.Web.Helpers.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\System.Web.Mvc.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\System.Web.Razor.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\System.Web.WebPages.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\ru\System.Web.Helpers.resources.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\ru\System.Web.Razor.resources.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\ru\System.Web.WebPages.resources.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\obj\Debug\UnitTests.dll
+D:\University\Музичук\Newwwwwwwwwwwwwwwwwwwwww\MyBlogNewVersion\UnitTests\obj\Debug\UnitTests.pdb

@@ -1,0 +1,28 @@
+﻿@model Domain.Article
+
+<div class="well">
+    <div class="row">
+        <div class="col-xs-9">
+            <h3>
+                <strong>@Model.Title</strong>  -  <i>@Model.Note</i>
+            </h3>
+                <br>
+                <p><strong><i>Виконав: @Model.Student</i></strong></p>
+                <p><i>Викладач: @Model.Teacher</i></p>
+        </div>
+        <div class="col-xs-3">
+            <h3>
+                <div class="btn-group">
+                    <button type="button" class="btn btn-danger" onclick="@("window.location.href='" + @Url.Action("Note", "Article", new { id = Model.Id, note = 2 }) + "'");">2</button>
+                    <button type="button" class="btn btn-warning" onclick="@("window.location.href='" + @Url.Action("Note", "Article", new { id = Model.Id, note = 3 })+ "'");">3</button>
+                    <button type="button" class="btn btn-warning" onclick="@("window.location.href='" + @Url.Action("Note", "Article", new { id = Model.Id, note = 4 }) + "'");">4</button>
+                    <button type="button" class="btn btn-success" onclick="@("window.location.href='" + @Url.Action("Note", "Article", new { id = Model.Id, note = 5 }) + "'");">5</button>
+                </div>
+            </h3>
+        </div>
+    </div>
+    <span class="lead">
+        @Model.Text
+    </span>
+
+</div>

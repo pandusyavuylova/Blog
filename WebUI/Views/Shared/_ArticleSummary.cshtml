@@ -1,0 +1,24 @@
+﻿@model Domain.Article
+
+<div class="well">
+    <div class="row">
+        <div class="col-xs-12">
+            <h3>
+                <strong>@Model.Title    -   <i>Виконав: @Model.Student</i></strong>
+            </h3>
+            <p><strong>Викладач: <i>@Model.Teacher</i>  -  <i>@Model.Note</i></strong></p>
+            
+        </div>
+        <div class="col-xs-2">
+            <h3>
+                <button type="button" class="btn btn-default btn-lg" onclick="@("window.location.href='" + @Url.Action("Watch", "Article", new { id = Model.Id }) + "'");">
+                    <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> Watch all text
+                </button>
+            </h3>
+        </div>
+    </div>
+    <span class="lead">
+        @Model.Text.Substring(0, 10)
+    </span>
+
+</div>
