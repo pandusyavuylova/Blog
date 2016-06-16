@@ -108,8 +108,6 @@ namespace WebUI.Controllers
                             }
                         }
                         art.Student = "Default Student";
-                        //context.Articles.Add(art);
-                        //context.SaveChanges();
                     }
                     context.Articles.Add(art);
                     context.SaveChanges();
@@ -121,6 +119,105 @@ namespace WebUI.Controllers
             return RedirectToAction("List", "Themes");
         }
 
-        
+        [Authorize(Roles = "Admin, Teacher")]
+        public ActionResult Delete(int id)
+        {
+            EFDbContext context = new EFDbContext();
+            foreach (var t in context.Themes)
+            {
+                if (t.Id == id)
+                {
+                    context.Themes.Remove(t);
+                }
+            }
+            context.SaveChanges();
+            return RedirectToAction("List", "Themes");
+        }
+
+        [Authorize(Roles = "Admin, Teacher")]
+        public ActionResult Edit(int id)
+        {
+            EFDbContext context = new EFDbContext();
+            string title = "";
+            string description = "";
+            foreach (var t in context.Themes)
+            {
+                if (t.Id == id)
+                {
+                    title = t.Title;
+                    description = t.Description;
+                }
+            }
+            Theme model = new Theme();
+            model.Id = id;
+            model.Title = title;
+            model.Description = description;
+            if (title != null)
+            {
+                return View(model);
+            }
+            return RedirectToAction("List", "Themes");
+        }
+
+        [Authorize(Roles = "Admin, Teacher")]
+        [HttpPost]
+        public ActionResult Edit(Theme model)
+        {
+            if (ModelState.IsValid)
+            {
+                EFDbContext context = new EFDbContext();
+                string title = model.Title;
+                if (title != null)
+                {
+                    foreach (var t in context.Themes)
+                    {
+                        if (t.Id == model.Id)
+                        {
+                            t.Title = model.Title;
+                            t.Description = model.Description;
+                        }
+                    }
+                }
+                context.SaveChanges();
+                return RedirectToAction("List", "Themes");
+            }
+            return View(model);
+        }
+
+        [Authorize(Roles = "Admin, Teacher")]
+        public ActionResult Create()
+        {
+            return View();
+        }
+
+        [Authorize(Roles = "Admin, Teacher")]
+        [HttpPost]
+        public ActionResult Create(Theme model)
+        {
+            EFDbContext context = new EFDbContext();
+            int max = 0;
+            foreach (var t in context.Themes)
+            {
+                if (t.Id >= max)
+                {
+                    max = t.Id;
+                }
+            }
+            max = max + 1;
+            if (model.Title != null && model.Description != null)
+            {
+                Theme newTheme = new Theme
+                {
+                    Id = max,
+                    Title = model.Title,
+                    Description = model.Description,
+                    Teacher = model.Teacher
+                };
+                context.Themes.Add(newTheme);
+                context.SaveChanges();
+                return RedirectToAction("List", "Themes");
+            }
+            return View();
+        }
 	}
 }

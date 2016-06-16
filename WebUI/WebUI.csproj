@@ -236,6 +236,8 @@
     <Content Include="Views\Shared\_ArticleSummary.cshtml" />
     <Content Include="Views\Article\Watch.cshtml" />
     <Content Include="Views\Themes\Take.cshtml" />
+    <Content Include="Views\Themes\Edit.cshtml" />
+    <Content Include="Views\Themes\Create.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

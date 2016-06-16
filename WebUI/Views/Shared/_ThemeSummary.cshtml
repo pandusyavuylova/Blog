@@ -12,6 +12,15 @@
                 <button type="button" class="btn btn-default btn-lg" onclick="@("window.location.href='" + @Url.Action("Take", "Themes", new { id = Model.Id }) + "'");">
                     <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> Take
                 </button>
+                @if (User.IsInRole("Admin") || User.IsInRole("Teacher"))
+                {
+                    <button type="button" class="btn btn-default btn-lg" onclick="@("window.location.href='" + @Url.Action("Edit", "Themes", new { id = Model.Id }) + "'");">
+                        <span class="glyphicon glyphicon-edit" aria-hidden="true"></span> Edit
+                    </button>
+                    <button type="button" class="btn btn-default btn-lg" onclick="@("window.location.href='" + @Url.Action("Delete", "Themes", new { id = Model.Id }) + "'");">
+                        <span class="glyphicon glyphicon-remove" aria-hidden="true"></span> Delete
+                    </button>
+                }
             </h3>
         </div>
     </div>
