@@ -20,7 +20,6 @@ namespace WebUI.Controllers
             repository = repo;
         }
 
-        [Authorize(Roles="Admin, Student, Teacher")]
         public ViewResult List(int page = 1)
         {
             ArticleListViewModel model = new ArticleListViewModel
@@ -40,7 +39,6 @@ namespace WebUI.Controllers
             return View(model);
         }
 
-        [Authorize(Roles="Admin, Teacher, Student")]
         public ViewResult Watch(int id)
         {
             ArticleListViewModel model = new ArticleListViewModel

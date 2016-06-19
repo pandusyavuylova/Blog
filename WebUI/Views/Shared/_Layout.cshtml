@@ -10,11 +10,18 @@
 </head>
 <body>
     <div class="navbar navbar-default" role="navigation">
-        <a class="navbar navbar-brand" href="#">Home</a>
+        <a class="navbar navbar-brand" href="@Url.Action("List", "Article")">Young scientists</a>
+        @if (User.Identity.IsAuthenticated == false)
+        {
+            <a class="navbar navbar-brand" href="@Url.Action("Login", "Account")">Login</a>
+        }
+        <a class="navbar navbar-brand" href="@Url.Action("List", "Article")">Articles</a>
         @if (User.Identity.IsAuthenticated)
         { 
-            <a class="navbar navbar-brand" href="@Url.Action("List", "Themes")">Themes</a>
-            <a class="navbar navbar-brand" href="@Url.Action("List", "Article")">Articles</a>
+            if (User.IsInRole("Admin") || User.IsInRole("Student"))
+            { 
+                <a class="navbar navbar-brand" href="@Url.Action("List", "Themes")">Themes</a>
+            }
             <a href="@Url.Action("Logout", "Account")" class=" navbar-brand pull-right">
                 Logout
                 <span class="glyphicon glyphicon-log-in" aria-hidden="true"></span>

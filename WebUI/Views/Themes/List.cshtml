@@ -6,17 +6,32 @@
 }
 
 <div>
-    <h3>
-        <button type="button" class="btn btn-default btn-lg" onclick="@("window.location.href='" + @Url.Action("Create", "Themes") + "'");">
-            <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> Create new theme
-        </button>
-    </h3>
+    @if (User.IsInRole("Admin") || User.IsInRole("Teacher"))
+    { 
+        <h3>
+            <button type="button" class="btn btn-default btn-lg" onclick="@("window.location.href='" + @Url.Action("Create", "Themes") + "'");">
+                <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> Create new theme
+            </button>
+        </h3>
+    }
 </div>
 
-@foreach(var theme in Model.Themes)
-{
-    @Html.Partial("_ThemeSummary", theme)
-}
+<div class="row">
+    <div class="col-xs-2 col-sm-offset-12" style="float:left; width:10%">
+        @*<h3>kuku</h3>
+        <h3>kuku</h3>
+        <h3>kuku</h3>
+        <h3>kuku</h3>
+        <h3>kuku</h3>
+        <h3>kuku</h3>*@
+    </div>
+    <div style="float:left; width:90%">
+    @foreach(var theme in Model.Themes)
+    {
+        @Html.Partial("_ThemeSummary", theme)
+    }
+    </div>
+</div>
 
 <div>
     @Html.PageLinks(Model.PagingInfo, x => Url.Action("List", new { page = x}))
